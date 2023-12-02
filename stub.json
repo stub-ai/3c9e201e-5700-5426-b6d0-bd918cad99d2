@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Generate the HTML and CSS markup for the provided design mockup using CSS Grid layout.","md5":"645accf3bc6b1201adf114ca7dbdd4de"}]}
